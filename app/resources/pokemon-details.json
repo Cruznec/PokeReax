@@ -1,0 +1,304 @@
+{
+    "pokemonResult": [
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/1/",
+        "name": "Bulbasaur",
+        "hp": "45 hp",
+        "height": "0.7 m",
+        "weight": "6.9 kg",
+        "type": "Grass",
+        "info": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the \"Seed Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/1-Bulbasaur.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/2/",
+        "name": "Ivysaur",
+        "hp": "60 hp",
+        "height": "1.0 m",
+        "weight": "13.0 kg",
+        "type": "Grass",
+        "info": "Ivysaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the \"Seed Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/2-Ivysaur.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/3/",
+        "name": "Venusaur",
+        "hp": "80 hp",
+        "height": "2.0 m",
+        "weight": "100.0 kg",
+        "type": "Grass",
+        "info": "Venusaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the \"Seed Pokémon\".Venusaur has a Mega Evolution, available from X & Y onwards.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/3-Venusaur.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/4/",
+        "name": "Charmander",
+        "hp": "39 hp",
+        "height": "0.6 m",
+        "weight": "8.5 kg",
+        "type": "Fire",
+        "info": "Charmander is a Fire type Pokémon introduced in Generation 1. It is known as the \"Lizard Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/4-Charmander.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/5/",
+        "name": "Charmeleon",
+        "hp": "58 hp",
+        "height": "1.1 m",
+        "weight": "19.0 kg",
+        "type": "Fire",
+        "info": "Charmeleon is a Fire type Pokémon introduced in Generation 1. It is known as the \"Flame Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/5-Charmeleon.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/6/",
+        "name": "Charizard",
+        "hp": "78 hp",
+        "height": "1.7 m",
+        "weight": "90.5 kg",
+        "type": "Fire",
+        "info": "Charizard  is a Fire/Flying type Pokémon introduced in Generation 1. It is known as the \"Flame Pokémon\".Charizard has a 2 Mega Evolution, available from X & Y onwards.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/6-Charizard.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/7/",
+        "name": "Squirtle",
+        "hp": "44 hp",
+        "height": "0.5 m",
+        "weight": "9.0 kg",
+        "type": "Water",
+        "info": "Squirtle  is a Water type Pokémon introduced in Generation 1. It is known as the \"Tiny Turtle Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/7-Squirtle.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/8/",
+        "name": "Wartortle",
+        "hp": "59 hp",
+        "height": "1.0 m",
+        "weight": "22.5 kg",
+        "type": "Water",
+        "info": "Wartortle  is a Water type Pokémon introduced in Generation 1. It is known as the \"Turtle Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/8-Wartortle.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/9/",
+        "name": "Blastoise",
+        "hp": "79 hp",
+        "height": "1.6 m",
+        "weight": "85.5 kg",
+        "type": "Water",
+        "info": "Blastoise is a Water type Pokémon introduced in Generation 1. It is known as the \"Shelfish Pokémon\".Blastoise has a Mega Evolution, available from X & Y onwards.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/9-Blastoise.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/10/",
+        "name": "Caterpie",
+        "hp": "45 hp",
+        "height": "0.3 m",
+        "weight": "2.9 kg",
+        "type": "Bug",
+        "info": "Caterpie is a Bug type Pokémon introduced in Generation 1. It is known as the \"Worm Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/10-Caterpie.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/11/",
+        "name": "Metapod",
+        "hp": "50 hp",
+        "height": "0.7 m",
+        "weight": "9.9 kg",
+        "type": "Bug",
+        "info": "Metapod  is a Bug type Pokémon introduced in Generation 1. It is known as the \"Cocoon Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/11-Metapod.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/12/",
+        "name": "Butterfree",
+        "hp": "60 hp",
+        "height": "1.1 m",
+        "weight": "32.0 kg",
+        "type": "Bug",
+        "info": "Butterfree  is a Bug type Pokémon introduced in Generation 1. It is known as the \"Butterfly Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/12-Butterfree.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/13/",
+        "name": "Weedle",
+        "hp": "40 hp",
+        "height": "0.3 m",
+        "weight": "3.2 kg",
+        "type": "Bug",
+        "info": "Weedle is a Bug type Pokémon introduced in Generation 1. It is known as the \"Hairy Bug Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/13-Weedle.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/14/",
+        "name": "Kakuna",
+        "hp": "45 hp",
+        "height": "0.6 m",
+        "weight": "10.0 kg",
+        "type": "Bug",
+        "info": "Kakuna is a Bug type Pokémon introduced in Generation 1. It is known as the \"Cocoon Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/14-Kakuna.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/15/",
+        "name": "Beedrill",
+        "hp": "65 hp",
+        "height": "1.0 m",
+        "weight": "29.5 kg",
+        "type": "Bug",
+        "info": "Beedrill is a Bug type Pokémon introduced in Generation 1. It is known as the \"Poison Bee Pokémon\".Beedrill has a Mega Evolution, available from X & Y onwards.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/15-Beedrill.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/16/",
+        "name": "Pidgey",
+        "hp": "40 hp",
+        "height": "0.3 m",
+        "weight": "1.8 kg",
+        "type": "Flying",
+        "info": "Pidgey is a Flying type Pokémon introduced in Generation 1. It is known as the \"Tiny Bird Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/16-Pidgey.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/17/",
+        "name": "Pidgeotto",
+        "hp": "63 hp",
+        "height": "1.1 m",
+        "weight": "30.0 kg",
+        "type": "Flying",
+        "info": "Pidgeotto is a Flying type Pokémon introduced in Generation 1. It is known as the \"Bird Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/17-Pidgeotto.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/18/",
+        "name": "Pidgeot",
+        "hp": "83 hp",
+        "height": "1.5 m",
+        "weight": "39.5 kg",
+        "type": "Flying",
+        "info": "Pidgeot is a Flying type Pokémon introduced in Generation 1. It is known as the \"Bird Pokémon\".Pidgeot has a Mega Evolution, available from Omega Ruby & Alpha Sapphire onwards.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/18-Pidgeot.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/19/",
+        "name": "Rattata",
+        "hp": "30 hp",
+        "height": "0.3 m",
+        "weight": "3.5 kg",
+        "type": "Normal",
+        "info": "Rattata is a Normal type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".Ratata has a \"Alolan\" form introduced in Pokémon Sun/Moon.",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/19-Rattata.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/20/",
+        "name": "Raticate",
+        "hp": "55 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Normal",
+        "info": "Raticate is a Normal type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/20-Raticate.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/21/",
+        "name": "Spearow",
+        "hp": "40 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Flying",
+        "info": "Spearow is a Flying type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/21-Spearow.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/22/",
+        "name": "Fearow",
+        "hp": "65 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Flying",
+        "info": "Fearow is a Flying type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/22-Fearow.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/23/",
+        "name": "Ekans",
+        "hp": "35 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Poison",
+        "info": "Raticate is a Poison type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/23-Ekans.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/24/",
+        "name": "Arbok",
+        "hp": "60 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Poison",
+        "info": "Arbok is a Poison type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/24-Arbok.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/25/",
+        "name": "Pikachu",
+        "hp": "35 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Electric",
+        "info": "Pikachu is a Electric type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/25-Pikachu.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/26/",
+        "name": "Raichu",
+        "hp": "60 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Electric",
+        "info": "Raichu is a Electric type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/26-Raichu.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/27/",
+        "name": "Sandshrew",
+        "hp": "50 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Normal",
+        "info": "Sandshrew is a Normal type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/27-Sandshrew.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/28/",
+        "name": "Sandslash",
+        "hp": "75 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Normal",
+        "info": "Sandslash is a Normal type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/28-Sandslash.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/29/",
+        "name": "Nidoran-f",
+        "hp": "55 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Poison",
+        "info": "Nidoran-f is a Poison type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/29-Nidoran_F.png"
+      },
+      {
+        "url": "https://pokeapi.co/api/v2/pokemon/30/",
+        "name": "Nidorina",
+        "hp": "70 hp",
+        "height": "0.7 m",
+        "weight": "18.5 kg",
+        "type": "Poison",
+        "info": "Nidorina is a Poison type Pokémon introduced in Generation 1. It is known as the \"Mouse Pokémon\".",
+        "img": "http://static.pokemonpets.com/images/monsters-images-800-800/30-Nidorina.png"
+      }
+    ]
+}
