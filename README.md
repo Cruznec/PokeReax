@@ -27,13 +27,13 @@ A portable Pokedex desktop app based on  <a href="http://electron.atom.io/">Elec
 
 <div align="center">
 
-![Screen 1](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Screen%201.PNG)
-![Screen 2](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Screen%202.PNG)
-![Screen 3](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Capture.PNG)
-![Screen 4](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Capture1.PNG)
-![Screen 5](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Capture3.PNG)
-![Screen 6](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Capture4.PNG)
-![Screen 7](https://raw.githubusercontent.com/Cruznec/PokeReax/master/app/docImages/Capture5.PNG)
+![Screen 1](app/docImages/Screen_1.PNG)
+![Screen 2](app/docImages/Screen_2.PNG)
+![Screen 3](app/docImages/Capture.PNG)
+![Screen 4](app/docImages/Capture1.PNG)
+![Screen 5](app/docImages/Capture3.PNG)
+![Screen 6](app/docImages/Capture4.PNG)
+![Screen 7](app/docImages/Capture5.PNG)
 </div>
 
 ## Install
